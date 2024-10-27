@@ -1,8 +1,7 @@
 /*
  * modbusSlave.c
  *
- *  Created on: Oct 27, 2022
- *      Author: controllerstech.com
+ *      Author: MDK
  */
 
 #include "modbusSlave.h"
